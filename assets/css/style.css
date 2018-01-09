@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+
+img { 
+    height: 150px;
+    width: 150px;
+}
+
+h1, p {
+    color: #7AC0FEFF;
+    font-family: 'Cabin', sans-serif;
+}
+
+.container {
+    padding: 20px;
+    width: 100%;
+}
+
+.btn {
+    background-color: #CC4B09;
+    border-color: #fff;
+    font-family: 'Cabin', sans-serif;
+    font-size: 18px;
+    margin: 3px;
+}
+
+.btn:hover {
+	background-color: #5D94FB;
+}
+
+form div .btn {
+    background-color: ;
+}
+
+form div .btn:hover {
+    background-color: #CC4B09;
+}
+
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
